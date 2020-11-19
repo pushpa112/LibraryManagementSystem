@@ -1,6 +1,6 @@
 ﻿namespace LibraryManagementSystem
 {
-    partial class Form2
+    partial class Test2
     {
         /// <summary>
         /// Required designer variable.
